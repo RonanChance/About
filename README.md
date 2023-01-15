@@ -9,26 +9,18 @@ Bachelor of Science in **Computer Science**, Minor in Data Science.
 
 List of [classes](/pages/classes.md) I've taken.
 
-<br/>
-
 ## Research
 
 Using Heart Rate Variability (HRV) to Detect Neonatal Sepsis. Advised by [Dr. Daniel Vasiliu](https://www.wm.edu/as/data-science/people/vasiliu_d1.php).
-
-<br/>
 
 ## Experience
 <img align="right" width=200 src="assets/riskiqlogo.png">
 
 I work part-time as a Project Manager at the Microsoft company, [RiskIQ](https://www.riskiq.com/). I specialize in the detection of online impersonation. Before the acquisition, I was an intern on the External Threats and Investigations teams.
 
-<br/>
-
 ## Projects
 
 Check out the [side-projects](/pages/projects.md) I'm working on.
-
-<br/>
 
 ## Reading List
 
