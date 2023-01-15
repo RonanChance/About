@@ -6,7 +6,7 @@
 
 William & Mary in Williamsburg, VA
 
-Bachelor of Science in **Computer Science**, Minor in Data Science.
+B.S. **Computer Science**, Minor in Data Science.
 
 List of [classes](/pages/classes.md) I've taken.
 
@@ -23,7 +23,7 @@ I work part-time as a Project Manager at the Microsoft company, [RiskIQ](https:/
 
 Check out the [side-projects](/pages/projects.md) I'm working on.
 
-<br/>
+## Contact
 
 [<img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="20"/> LinkedIn](https://www.linkedin.com/in/ronancdonovan/)
 &nbsp;
