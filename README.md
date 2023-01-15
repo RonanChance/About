@@ -1,5 +1,6 @@
 # Ronan Donovan
 
+
 ## Education
 <img align="right" width=150 src="assets/wmlogo.png">
 
@@ -22,6 +23,13 @@ I work part-time as a Project Manager at the Microsoft company, [RiskIQ](https:/
 
 Check out the [side-projects](/pages/projects.md) I'm working on.
 
-## Reading List
+<br/>./assets/icons/linkedin.svg
 
-See what [interesting books](/pages/readings.md) a Computer Science student (and self-proclaimed couch philosopher) is reading.
+[<img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="20"/> LinkedIn](https://www.linkedin.com/in/ronancdonovan/)
+&nbsp;
+[<img src="./assets/icons/github.svg" alt="Github" width="20"/> Github](https://github.com/RonanChance)
+&nbsp;
+[<img src="./assets/icons/email.svg" alt="Email" width="20"/> Email](mailto:RCDonovan@wm.edu)
+<!-- ## Reading List
+
+See what [interesting books](/pages/readings.md) a Computer Science student (and self-proclaimed couch philosopher) is reading. -->

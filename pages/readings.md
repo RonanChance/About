@@ -1,4 +1,4 @@
-# Ronan's Reading List
+# Reading List
 
 ## 2023
 
