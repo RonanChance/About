@@ -17,19 +17,20 @@ Using Heart Rate Variability (HRV) to Detect Neonatal Sepsis. Advised by [Dr. Da
 ## Experience
 <img align="right" width=200 src="assets/riskiqlogo.png">
 
-I work part-time as a Project Manager at the Microsoft company, [RiskIQ](https://www.riskiq.com/). I specialize in the detection of online impersonation. Before the acquisition, I was an intern on the External Threats and Investigations teams.
+I work part-time as a Project Manager at the Microsoft company, [RiskIQ](https://www.riskiq.com/). I specialize in the detection of impersonation threats using OSINT collection tools. Before the acquisition, I was an intern on the External Threats and Investigations teams.
 
 ## Projects
 
 Check out the [side-projects](/pages/projects.md) I'm working on.
 
-<br/>./assets/icons/linkedin.svg
+<br/>
 
 [<img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="20"/> LinkedIn](https://www.linkedin.com/in/ronancdonovan/)
 &nbsp;
 [<img src="./assets/icons/github.svg" alt="Github" width="20"/> Github](https://github.com/RonanChance)
 &nbsp;
 [<img src="./assets/icons/email.svg" alt="Email" width="20"/> Email](mailto:RCDonovan@wm.edu)
-<!-- ## Reading List
 
-See what [interesting books](/pages/readings.md) a Computer Science student (and self-proclaimed couch philosopher) is reading. -->
+<!-- ## Reading List -->
+
+<!-- See what [interesting books](/pages/readings.md) a Computer Science student (and self-proclaimed couch philosopher) is reading. -->
