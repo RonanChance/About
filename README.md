@@ -14,7 +14,7 @@ Research: Using Heart Rate Variability (HRV) to Detect Neonatal Sepsis. Advised 
 ## Experience
 <img align="right" width=200 src="assets/riskiqlogo.png">
 
-I work part-time as a Project Manager at the Microsoft company, RiskIQ. I specialize in the detection of online impersonation. Before the acquisition, I was an intern on the External Threats and Investigations teams.
+I work part-time as a Project Manager at the Microsoft company, [RiskIQ](https://www.riskiq.com/). I specialize in the detection of online impersonation. Before the acquisition, I was an intern on the External Threats and Investigations teams.
 
 <br/><br/>
 
