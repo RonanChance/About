@@ -1,6 +1,6 @@
-# List of Classes
+# List of Courses
 
-A list of the important classes I have taken at William & Mary. 
+A list of the relevant courses I have taken at William & Mary. 
 
 ## Computer Science
 

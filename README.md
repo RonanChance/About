@@ -8,7 +8,7 @@ William & Mary in Williamsburg, VA
 
 B.S. **Computer Science**, Minor in Data Science.
 
-List of [classes](/pages/classes.md) I've taken.
+List of [courses](/pages/classes.md) I've taken.
 
 ## Research
 
