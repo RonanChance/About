@@ -6,7 +6,7 @@
 
 ### Empowering individuals with research news tailored to their DNA.
 
-Using a low-code tech stack of Webflow & Airtable built a website and service that keeps people up to date with research. Inspired by the lack of actionable health insights received from my 23&Me DNA test, I found online tools such as CodeGen.eu and Promethease.com for understanding the minutia of my genetic aberrations. I found myself uploading my DNA frequently to see if any changes has occured, and built a service that would make this process more convenient for others like me.
+Using a low-code tech stack of Webflow & Airtable built a website and service that keeps people up to date with research. Inspired by the lack of actionable health insights received from my 23&Me DNA test, I found online tools (CodeGen.eu, Promethease.com) insightful for understanding the single nucleotide polymorphisms in my DNA. I found myself re-uploading my DNA to see if any changes had occured, so I built a service that would make the process of keeping an eye on research updates more convenient.
 
 ## [Abx-Effects.com](https://www.abx-effects.com)
 ### Adverse Antibiotic Effects in Lyme Disease Treatment

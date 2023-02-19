@@ -12,7 +12,7 @@ List of [courses](/pages/classes.md) I've taken.
 
 ## Research
 
-Using Heart Rate Variability (HRV) to Detect Neonatal Sepsis. Advised by [Dr. Daniel Vasiliu](https://www.wm.edu/as/data-science/people/vasiliu_d1.php).
+Time series analysis of heart rate variability (HRV) using Facebook AI Similarity Search (FAISS) to detect neonatal sepsis. Advised by [Dr. Daniel Vasiliu](https://www.wm.edu/as/data-science/people/vasiliu_d1.php).
 
 ## Experience
 <img align="right" width=200 src="assets/riskiqlogo.png">
